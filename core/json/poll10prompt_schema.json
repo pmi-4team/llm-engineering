@@ -1,0 +1,46 @@
+
+{
+  "query_id": "{unique_request_id}",
+  "timestamp": "{current_datetime}",
+  "user_query": "{user_input_text}",
+  "processing_status": "SUCCESS", 
+  
+  "stress_analysis": {
+    "identified_emotion": "STRING", 
+    "stress_level": 0, 
+    
+    "stress_factors": [
+      {
+        "factor_name": "STRING",  
+        "detail": "STRING"        
+      }
+    ],
+    
+    "is_stress_related_consumption": false 
+  },
+  
+  "consumption_intention": {
+    "category_preference": "STRING", 
+    "budget_range": {
+      "min": 0,
+      "max": 0
+    },
+    "desired_effect": "STRING" 
+  },
+  
+  "llm_response_metadata": {
+    "model_name": "claude-sonnet-4-20250514",
+    "prompt_version": "V1.0",
+    "confidence_score": 0.0
+  },
+  
+  "retrieval_metadata": {
+    "vector_search_keywords": "STRING", 
+    "retrieved_documents": [
+      {
+        "doc_id": "STRING",
+        "score": 0.0
+      }
+    ]
+  }
+}
