@@ -1,0 +1,82 @@
+[
+  {
+    "request_id": "1",
+    "process_datetime": "2025-10-26T00:48:28.626578",
+    "model_name": "claude-sonnet-4-20250514",
+    "prompt_version": "V1.0-dynamic",
+    "original_query": "미혼",
+    "analysis": {
+      "preferred_consumption": "",
+      "stress_factor": "",
+      "stress_relief_method": "",
+      "skin_satisfaction": "",
+      "skincare_budget": "",
+      "skincare_priority": "",
+      "recent_expense_area": ""
+    }
+  },
+  {
+    "request_id": "2",
+    "process_datetime": "2025-10-26T00:48:31.820376",
+    "model_name": "claude-sonnet-4-20250514",
+    "prompt_version": "V1.0-dynamic",
+    "original_query": "3명",
+    "analysis": {
+      "preferred_consumption": "기타",
+      "stress_factor": "기타",
+      "stress_relief_method": "기타",
+      "skin_satisfaction": "보통이다",
+      "skincare_budget": "3만원 미만",
+      "skincare_priority": "기타",
+      "recent_expense_area": "기타"
+    }
+  },
+  {
+    "request_id": "3",
+    "process_datetime": "2025-10-26T00:48:35.107696",
+    "model_name": "claude-sonnet-4-20250514",
+    "prompt_version": "V1.0-dynamic",
+    "original_query": "대학원 재학/졸업 이상",
+    "analysis": {
+      "preferred_consumption": "",
+      "stress_factor": "",
+      "stress_relief_method": "",
+      "skin_satisfaction": "",
+      "skincare_budget": "",
+      "skincare_priority": "",
+      "recent_expense_area": ""
+    }
+  },
+  {
+    "request_id": "4",
+    "process_datetime": "2025-10-26T00:48:38.452426",
+    "model_name": "claude-sonnet-4-20250514",
+    "prompt_version": "V1.0-dynamic",
+    "original_query": "교직 (교수, 교사, 강사 등)",
+    "analysis": {
+      "preferred_consumption": "",
+      "stress_factor": "업무 / 학업",
+      "stress_relief_method": "",
+      "skin_satisfaction": "",
+      "skincare_budget": "",
+      "skincare_priority": "",
+      "recent_expense_area": ""
+    }
+  },
+  {
+    "request_id": "5",
+    "process_datetime": "2025-10-26T00:48:41.524855",
+    "model_name": "claude-sonnet-4-20250514",
+    "prompt_version": "V1.0-dynamic",
+    "original_query": "교육•교사•강사•교직원",
+    "analysis": {
+      "preferred_consumption": "기타",
+      "stress_factor": "업무 / 학업",
+      "stress_relief_method": "기타",
+      "skin_satisfaction": "보통이다",
+      "skincare_budget": "3만원 이상 ~ 5만원 미만",
+      "skincare_priority": "성분 및 효과",
+      "recent_expense_area": "기타"
+    }
+  }
+]
